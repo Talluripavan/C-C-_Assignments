@@ -57,5 +57,5 @@ void Rectangle::rotate(int degree)
     undoRedostate.push_back(make_pair(m_base,m_height));
     undoRedostate_ptr++;
    std::cout << "Rotate operation(Rectangle) done by " <<degree<<" length="<<m_base<<" ,bredth= "<<m_height<<std::endl;
-
+//cout<<"HEllo"<<endl;
 }

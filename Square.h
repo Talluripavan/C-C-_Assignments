@@ -23,6 +23,7 @@ public:
 
       // m_name = "Square";
       // m_id = "ID";
+      //cout<<"HEllo"<<endl;
       undoRedostate.push_back(make_pair(m_base,m_height));
       undoRedostate_ptr++;
       cout << "Square created length=" << m_base << ", bredth=" << m_height << endl;
