@@ -24,6 +24,7 @@ int main()
    //rect->rotate(180);
    //rect->undo();
    //rect->redo();
+cout<<"Paint App()!"<<endl;
 cout<<"1-for SCALE()"<<endl;
 cout<<"2-for MOVE()"<<endl;
 cout<<"3-for ROTATE()"<<endl;
